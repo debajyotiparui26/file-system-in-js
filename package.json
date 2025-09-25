@@ -1,0 +1,20 @@
+{
+  "name": "file-system-in",
+  "version": "1.0.0",
+  "description": "",
+  "main": "filesystem.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/debajyotiparui26/file-system-in-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/debajyotiparui26/file-system-in-js/issues"
+  },
+  "homepage": "https://github.com/debajyotiparui26/file-system-in-js#readme"
+}
